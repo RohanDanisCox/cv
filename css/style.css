@@ -1,0 +1,98 @@
+
+/* Fix the margin at the top of the main section*/
+[data-id="main"] {
+    margin-top: -0.2in;
+}
+
+/* Fix the margin on the title section*/
+[data-id="title"] {
+    position: relative;
+    margin: 0 0 0.2in 0.7in;
+    left:0;
+    line-height: 1.3;
+}
+
+/* Fix the margins within the aside so it isn't so spaced out */
+.aside .level2 {
+    margin-top: 0.25in;
+}
+
+/* position the image in the centre */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* fix the position of the disclaimer -----this is the full section not sure how it works
+[data-id="disclaimer"] {
+    position: absolute;
+    bottom: 0;
+    right: var(--sidebar-horizontal-padding);
+    font-size: 0.75rem;
+    font-style: italic;
+    line-height: 1.1;
+    text-align: right;
+    color: #777;
+}*/
+
+/* Changes the font of heading to Playfair
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display", serif;
+  color: #000;
+} */
+
+/* Avoid the breaking within a section */
+.blocks {
+  break-inside: avoid;
+}
+
+* {
+  /* Override default right margin for sidebar*/
+  --pagedjs-margin-right: 0.2in;
+  --pagedjs-margin-left: 0.2in;
+}
+
+/* Customize some of the sizing variables */
+:root {
+  --sidebar-width: 12rem; /* Shrink sidebar width  */
+  --sidebar-background-color: #f7fbff; /* Make sidebar blue */
+  --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
+  --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
+  --decorator-border: 2px solid #bdd7e7; /* Make timeline a blue as well*/
+}
+
+/* Gap between #Title and Title in main section  */
+.details .place {
+  margin-top: 0.25rem;
+}
+
+/* Gap between Title and points in main section  */
+.main-block:not(.concise) .details div {
+  padding-top: 0.005rem;
+}
+
+/* Removes bullets in aside */
+.aside li::before {
+  display: none;
+}
+
+/* Aligns items under heading in aside (changed from 1 to 0.5) */
+.aside ul {
+  padding-left: 0.5rem;
+}
+
+/* Smaller text in aside */
+.aside {
+  width: calc(var(--sidebar-width) + 9px);
+  line-height: 1.2;
+  font-size: 0.75rem;
+  margin-top: -0.85in; /* push the whole aside up higher */
+}
+
+/* Make dots in main section dark blue */
+.decorator::after {
+  background-color: #08306b;
+}
