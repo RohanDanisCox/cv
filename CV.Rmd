@@ -23,26 +23,27 @@ Contact {#contact}
 Programming {#programming}
 ------------------------------------
 
-- R
-- SQL
-- Python
-- Bash
-- CSS
+- R <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> </span>
+- SQL <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- Bash <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- Python <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- CSS <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
 
 Presentation {#presentation}
 ------------------------------------
 
-- Shiny
-- Rmarkdown
-- Tableau
-- Excel
+- ggplot2 <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> </span>
+- Shiny <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> </span>
+- Rmarkdown <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> </span>
+- Excel <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- Tableau <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
 
 References {#references}
 ------------------------------------
 
 - <b>Linda Hardy </b> 
-- National Australia Bank, Risk
-- Senior Manager
+- National Australia Bank
+- Senior Manager, Risk
 - UBank Governance & Enablement 
 - <i class="fa fa-envelope"></i> Linda.Hardy@nab.com.au
 - <i class="fa fa-phone"></i> 0459 844 081
@@ -50,8 +51,8 @@ References {#references}
 Second Reference {#secondref}
 ------------------------------------
 - <b>Annemarie Avis </b>
-- National Australia Bank, Wealth
-- Manager
+- National Australia Bank
+- Manager, Wealth
 - Quality & Advice Coaching
 - <i class="fa fa-envelope"></i> Annemarie.Avis@nab.com.au
 - <i class="fa fa-phone"></i> 0477 755 991
@@ -59,11 +60,13 @@ Second Reference {#secondref}
 Disclaimer
 ------------------------------------
 
-Made using [**pagedown**](https://github.com/rstudio/pagedown). 
+Made using [pagedown](https://github.com/rstudio/pagedown) 
 
-[View Source Code](https://github.com/RohanDanisCox/cv).
+[View source code](https://github.com/RohanDanisCox/cv)
 
-Last updated on `r format(Sys.Date(), format = "%d %b %Y")`.
+Skill ratings relative to first skill
+
+Last updated on `r format(Sys.Date(), format = "%d %b %Y")`
 
 Main
 ====================================
@@ -85,7 +88,7 @@ Sydney, NSW
 2020 - 2017
 
 - [Innovation Lab on NSW Property](https://rohandaniscox.github.io/ilab_2019/index.html)
-- GPA 3.92 out of 4
+- GPA 3.94 out of 4
 
 ### Advanced Diploma of Financial Planning
 

@@ -12,13 +12,24 @@
     line-height: 1.3;
 }
 
+/* used to remove the title on the second reference */
 [data-id="secondref"] h2 {
     display: none;
 }
 
+/* bring the images closer to the names*/
+[data-id="programming"],[data-id="presentation"] ul {
+    margin-right: 2em;
+}
+
+/* make the headings in the aside slightly smaller*/
+.aside h2 {
+  font-size: 0.95rem;
+}
+
 /* Fix the margins within the aside so it isn't so spaced out */
 .aside .level2 {
-    margin-top: 0.25in;
+    margin-top: 0.22in;
 }
 
 /* position the image in the centre */
@@ -31,6 +42,7 @@ img {
 [data-id="disclaimer"] {
     position: relative;
     bottom: -0.1in;
+    line-height: 0.6;
 }
 
 /* Changes the font of heading to Playfair
