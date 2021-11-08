@@ -85,7 +85,7 @@ University of Technology
 
 Sydney, NSW
 
-2020 - 2017
+2021 - 2017
 
 - [Innovation Lab on NSW Property](https://rohandaniscox.github.io/ilab_2019/index.html)
 - GPA 3.94 out of 4
@@ -97,7 +97,7 @@ Kaplan Professional Education
 Online
 
 2014 - 2012
-
+ 
 - ASIC RG 146 Compliance
 
 ### Bachelor of Finance
@@ -113,29 +113,28 @@ Canberra, ACT
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Senior Analyst, Training & Governance
+### Analyst, Data Science
 
-National Australia Bank - Corporate & Institutional
-
-Sydney, NSW
-
-Present - Mar 2019
-
-- Designing and building Learning Needs Analysis in Microsoft SharePoint
-- Training implementation and reporting through SAP SuccessFactors 
-- AFMA accreditation representative for Corporate & Institutional Bank
-
-### Analyst, Phone Advice
-
-National Australia Bank - MLC Wealth
+Commonwealth Bank of Australia - Enterprise Services
 
 Sydney, NSW
 
-Mar 2019 - Nov 2016
+Present - Feb 2020
 
-- Building and deploying general advice collateral
-- Seconded to Monitoring and Supervision - response to ASIC Report 515
-- Seconded to Customer Journeys for 'Advice Right for Me' initiative 
+- Implementing machine learning to predict operational risk program failures.
+- Designing RShiny applications to display model output and provide reporting features.
+- *** This is incomplete ***
+
+### Senior Analyst, Various Roles
+
+National Australia Bank
+
+Sydney, NSW
+
+Jan 2020 - Nov 2016
+
+- MLC Wealth: Developing MLC Wealth Phone Advice material and QA, response to ASIC Report 515, 
+- Corporate & Institutional Bank: Designing Learning Needs Analysis
 
 ### Practice Manager
 
@@ -145,8 +144,7 @@ Sydney, NSW
 
 Nov 2016 - Nov 2015
 
-- Designing and deploying compliance framework response to audit remediation
-- Uplifted compliance audit rating from 'D' to 'B'
+- Designing and implementing compliance framework in response to audit remediation. Uplifted compliance audit rating from 'D' to 'B'
 
 ### Financial Analyst / Adviser
 
@@ -156,6 +154,5 @@ Canberra, ACT
 
 Jul 2015 - Apr 2012
 
--	Preparing and delivering Statements of Advice for client base
-- Assisted design of Dixon Advisory FOFA response
+- Preparing and providing financial advice to low net wealth clients
 
