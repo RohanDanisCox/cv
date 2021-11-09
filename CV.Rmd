@@ -1,17 +1,17 @@
 ---
 title: "Rohan's resume"
 author: Rohan Danis-Cox
-date: 4/11/2019
+date: 9/11/2021
 output: 
   pagedown::html_resume:
-    css: ['css/style.css', 'resume']
+    css: ['css/style.css', 'resume'] #'resume_files/paged-0.5/css/resume.css']
     self_contained: true
 ---
 
 Aside
 ====================================
 
-![logo](photo.png){width=80%}
+![logo](rohan.jpg){width=80%}
 
 Contact {#contact}
 ------------------------------------
@@ -41,21 +41,21 @@ Presentation {#presentation}
 References {#references}
 ------------------------------------
 
-- <b>Linda Hardy </b> 
-- National Australia Bank
-- Senior Manager, Risk
-- UBank Governance & Enablement 
-- <i class="fa fa-envelope"></i> Linda.Hardy@nab.com.au
-- <i class="fa fa-phone"></i> 0459 844 081
+- <b>Nathan Huang </b> 
+- TBC Business
+- TBC Role
+- TBC Business Unit
+- <i class="fa fa-envelope"></i> TBC Email
+- <i class="fa fa-phone"></i> TBC Phone
 
 Second Reference {#secondref}
 ------------------------------------
-- <b>Annemarie Avis </b>
-- National Australia Bank
-- Manager, Wealth
-- Quality & Advice Coaching
-- <i class="fa fa-envelope"></i> Annemarie.Avis@nab.com.au
-- <i class="fa fa-phone"></i> 0477 755 991
+- <b>Paul Wainwright </b>
+- TBC Business
+- TBC Role
+- TBC Business Unit
+- <i class="fa fa-envelope"></i> TBC Email
+- <i class="fa fa-phone"></i> TBC Phone
 
 Disclaimer
 ------------------------------------
@@ -74,7 +74,61 @@ Main
 Rohan Danis-Cox {#title}
 ------------------------------------
 
-Found my calling to be a data scientist having developed significant range in financial services over the last 8 years. I am close to completing a Master of Data Science and Innovation at UTS and I am looking to demonstrate my skillset. I have had a highly diverse career, sampling many different roles, with my sensemaking and continuous improvement mindset helping me to succeed. 
+<!-- Found my calling to be a data scientist having developed significant range in financial services over the last 8 years. I am close to completing a Master of Data Science and Innovation at UTS and I am looking to demonstrate my skillset. I have had a highly diverse career, sampling many different roles, with my sensemaking and continuous improvement mindset helping me to succeed.  -->
+
+Data Scientist with passion for problem solving using the data science method. I believe strongly in using analytics to drive a deep domain knowledge to ensure data science is targeted, feasible and value driven. My professional background includes financial services and consumer protection with interest in using data science in healthcare, energy and property.
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Commonwealth Bank of Australia - Technology
+
+Sydney, NSW
+
+Present - Feb 2021
+
+- Implementing machine learning to predict operational risk program failures.
+- Designing RShiny applications to display model output and provide reporting features.
+- *** This is incomplete ***
+
+### Associate Data Scientist
+
+Commonwealth Bank of Australia - Enterprise Services
+
+Sydney, NSW
+
+Feb 2021 - Feb 2020
+
+- Implementing machine learning to predict operational risk program failures.
+- Designing RShiny applications to display model output and provide reporting features.
+- *** This is incomplete ***
+
+### Senior Analyst
+
+National Australia Bank
+
+Sydney, NSW 
+
+Jan 2020 - Mar 2019
+
+- Training & Governance reporting for Corporate & Institutional Bank
+- Designed and implemented Learning Needs Analysis application
+
+### Financial Planning
+
+Various
+
+Sydney & Canberra
+
+Mar 2019 - Apr 2012
+
+- Analyst - MLC Group (Nov 2016 - Mar 2019)
+- Practice Manager - Strategic Private Wealth (Dec 2015 - Nov 2016)
+- Financial Adviser - Dixon Advisory (Jun 2014 - Jul 2015)
+- Paraplanner - Dixon Advisory (Apr 2012 - Jun 2014)
+
 
 Education {data-icon=graduation-cap}
 ------------------------------------
@@ -90,15 +144,15 @@ Sydney, NSW
 - [Innovation Lab on NSW Property](https://rohandaniscox.github.io/ilab_2019/index.html)
 - GPA 3.94 out of 4
 
-### Advanced Diploma of Financial Planning
+<!-- ### Advanced Diploma of Financial Planning -->
 
-Kaplan Professional Education
+<!-- Kaplan Professional Education -->
 
-Online
+<!-- Online -->
 
-2014 - 2012
- 
-- ASIC RG 146 Compliance
+<!-- 2014 - 2012 -->
+
+<!-- - ASIC RG 146 Compliance -->
 
 ### Bachelor of Finance
 
@@ -109,50 +163,3 @@ Canberra, ACT
 2011 - 2007
 
 - GPA 5.54 out of 7
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Analyst, Data Science
-
-Commonwealth Bank of Australia - Enterprise Services
-
-Sydney, NSW
-
-Present - Feb 2020
-
-- Implementing machine learning to predict operational risk program failures.
-- Designing RShiny applications to display model output and provide reporting features.
-- *** This is incomplete ***
-
-### Senior Analyst, Various Roles
-
-National Australia Bank
-
-Sydney, NSW
-
-Jan 2020 - Nov 2016
-
-- MLC Wealth: Developing MLC Wealth Phone Advice material and QA, response to ASIC Report 515, 
-- Corporate & Institutional Bank: Designing Learning Needs Analysis
-
-### Practice Manager
-
-Strategic Private Wealth
-
-Sydney, NSW
-
-Nov 2016 - Nov 2015
-
-- Designing and implementing compliance framework in response to audit remediation. Uplifted compliance audit rating from 'D' to 'B'
-
-### Financial Analyst / Adviser
-
-Dixon Advisory & Superannuation Services
-
-Canberra, ACT
-
-Jul 2015 - Apr 2012
-
-- Preparing and providing financial advice to low net wealth clients
-
