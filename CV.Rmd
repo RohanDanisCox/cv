@@ -1,17 +1,17 @@
 ---
 title: "Rohan's resume"
 author: Rohan Danis-Cox
-date: 4/11/2019
+date: 23/01/2022
 output: 
   pagedown::html_resume:
-    css: ['css/style.css', 'resume']
+    css: ['css/style.css', 'resume'] #'resume_files/paged-0.5/css/resume.css']
     self_contained: true
 ---
 
 Aside
 ====================================
 
-![logo](photo.png){width=80%}
+![logo](rohan.jpg){width=80%}
 
 Contact {#contact}
 ------------------------------------
@@ -23,39 +23,37 @@ Contact {#contact}
 Programming {#programming}
 ------------------------------------
 
-- R <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> </span>
-- SQL <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
-- Bash <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
-- Python <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
-- CSS <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- R <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> </span>
+- Python <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> </span>
+- SQL <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> </span>
+- HTML <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- CSS <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
 
-Presentation {#presentation}
+Tooling {#presentation}
 ------------------------------------
 
-- ggplot2 <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> </span>
-- Shiny <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> </span>
-- Rmarkdown <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> </span>
-- Excel <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- Tidyverse <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> </span>
+- Shiny <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> </span>
+- Git <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> </span>
+- Spark <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
 - Tableau <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
 
 References {#references}
 ------------------------------------
 
-- <b>Linda Hardy </b> 
-- National Australia Bank
-- Senior Manager, Risk
-- UBank Governance & Enablement 
-- <i class="fa fa-envelope"></i> Linda.Hardy@nab.com.au
-- <i class="fa fa-phone"></i> 0459 844 081
+- <b>Nathan Huang </b> 
+- CBA - Senior Manager (On Leave)
+- Augment - Co-founder
+- <i class="fa fa-envelope"></i> nathan@augment-partners.com
+- <i class="fa fa-phone"></i> 0433 564 885
 
 Second Reference {#secondref}
 ------------------------------------
-- <b>Annemarie Avis </b>
-- National Australia Bank
-- Manager, Wealth
-- Quality & Advice Coaching
-- <i class="fa fa-envelope"></i> Annemarie.Avis@nab.com.au
-- <i class="fa fa-phone"></i> 0477 755 991
+- <b>Paul Wainwright </b>
+- Mable Technologies
+- Head of Analytics
+- <i class="fa fa-envelope"></i> paul.wainwright@mable.com.au
+- <i class="fa fa-phone"></i> 0413 042 352
 
 Disclaimer
 ------------------------------------
@@ -63,8 +61,6 @@ Disclaimer
 Made using [pagedown](https://github.com/rstudio/pagedown) 
 
 [View source code](https://github.com/RohanDanisCox/cv)
-
-Skill ratings relative to first skill
 
 Last updated on `r format(Sys.Date(), format = "%d %b %Y")`
 
@@ -74,7 +70,61 @@ Main
 Rohan Danis-Cox {#title}
 ------------------------------------
 
-Found my calling to be a data scientist having developed significant range in financial services over the last 8 years. I am close to completing a Master of Data Science and Innovation at UTS and I am looking to demonstrate my skillset. I have had a highly diverse career, sampling many different roles, with my sensemaking and continuous improvement mindset helping me to succeed. 
+Data scientist with passion for problem solving with data science and analytics. I believe strongly in leveraging analytics to drive a deep domain knowledge, ensuring data science is targeted, feasible and value driven. My professional and academic background covers financial services, property and consumer protection. I am keen to gain exposure in health care, energy and regional planning.
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist
+
+Commonwealth Bank of Australia - Technology
+
+Sydney, NSW
+
+Present - Feb 2021
+
+- Mining and simulating internal processes to identify improvement opportunities  
+- Forecasting chargeback representments volumes and predicting impact on team
+- Leading team of associate data scientists to uncover complaint / rework themes
+- Coaching and mentoring associate data scientists to drive continual development
+
+### Associate Data Scientist
+
+Commonwealth Bank of Australia - Enterprise Services
+
+Sydney, NSW
+
+Feb 2021 - Feb 2020
+
+- Predicted operational risk program extensions using gradient boosting model
+- Identified data breaches using natural language processing and deep learning
+- Presented risk reporting metrics via comprehensive RShiny dashboard
+- Provided rapid ad-hoc analytics through bespoke Rmarkdown presentations
+
+### Analyst / Senior Analyst
+
+National Australia Bank
+
+Sydney, NSW 
+
+Jan 2020 - Nov 2016
+
+- Designed and implemented Learning Needs Analysis application
+- Designed and implemented Interactive General Advice application
+- Seconded to Monitoring and Supervision responding to ASIC Report 515
+
+### Financial Planning
+
+Various Employers
+
+Sydney & Canberra
+
+Nov 2016 - Apr 2012
+
+- Practice Manager - Strategic Private Wealth (Dec 2015 - Nov 2016)
+- Financial Adviser - Dixon Advisory (Jun 2014 - Jul 2015)
+- Paraplanner - Dixon Advisory (Apr 2012 - Jun 2014)
+
 
 Education {data-icon=graduation-cap}
 ------------------------------------
@@ -87,18 +137,9 @@ Sydney, NSW
 
 2021 - 2017
 
-- [Innovation Lab on NSW Property](https://rohandaniscox.github.io/ilab_2019/index.html)
-- GPA 3.94 out of 4
-
-### Advanced Diploma of Financial Planning
-
-Kaplan Professional Education
-
-Online
-
-2014 - 2012
- 
-- ASIC RG 146 Compliance
+- [Innovation Lab analysing NSW property market](https://rohandaniscox.github.io/ilab_2019/index.html)
+- Innovation Lab forecasting donor revenue with Cancer Council
+- GPA 6.92
 
 ### Bachelor of Finance
 
@@ -108,51 +149,4 @@ Canberra, ACT
 
 2011 - 2007
 
-- GPA 5.54 out of 7
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Analyst, Data Science
-
-Commonwealth Bank of Australia - Enterprise Services
-
-Sydney, NSW
-
-Present - Feb 2020
-
-- Implementing machine learning to predict operational risk program failures.
-- Designing RShiny applications to display model output and provide reporting features.
-- *** This is incomplete ***
-
-### Senior Analyst, Various Roles
-
-National Australia Bank
-
-Sydney, NSW
-
-Jan 2020 - Nov 2016
-
-- MLC Wealth: Developing MLC Wealth Phone Advice material and QA, response to ASIC Report 515, 
-- Corporate & Institutional Bank: Designing Learning Needs Analysis
-
-### Practice Manager
-
-Strategic Private Wealth
-
-Sydney, NSW
-
-Nov 2016 - Nov 2015
-
-- Designing and implementing compliance framework in response to audit remediation. Uplifted compliance audit rating from 'D' to 'B'
-
-### Financial Analyst / Adviser
-
-Dixon Advisory & Superannuation Services
-
-Canberra, ACT
-
-Jul 2015 - Apr 2012
-
-- Preparing and providing financial advice to low net wealth clients
-
+- GPA 5.54

@@ -1,23 +1,28 @@
+/* Fixing no change to visited link */
+a:visited {
+  color:#0000EE;
+} 
 
-/* Fix the margin at the top of the main section*/
-[data-id="main"] {
-    margin-top: -0.25in;
+/* Reduce margin at top and bottom to provide more space*/
+.pagedjs_page {
+  --pagedjs-margin-top: 0.8in;
+  --pagedjs-margin-bottom: 0.8in;
 }
 
 /* Fix the margin on the title section*/
 [data-id="title"] {
     position: relative;
-    margin: 0 0 0.3in 0.7in;
+    margin: 0 0 0.25in 0.7in;
     left:0;
     line-height: 1.3;
 }
 
-/* used to remove the title on the second reference */
+/* Remove the title on the second reference */
 [data-id="secondref"] h2 {
     display: none;
 }
 
-/* bring the images closer to the names*/
+/* Bring the images closer to the names*/
 [data-id="programming"],[data-id="presentation"] ul {
     margin-right: 2em;
 }
@@ -98,7 +103,7 @@ h3 {
   width: calc(var(--sidebar-width) + 9px);
   line-height: 1.5em;
   font-size: 0.75rem;
-  margin-top: -0.85in; /* push the whole aside up higher */
+  margin-top: -0.7in; /* push the whole aside up higher */
 }
 
 /* Make dots in main section dark blue */
