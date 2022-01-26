@@ -20,6 +20,27 @@ Contact {#contact}
 - <i class="fa fa-github"></i> [github.com/RohanDanisCox](http://github.com/RohanDanisCox)
 - <i class="fa fa-phone"></i> 0449 638 975
 
+Education {#education}
+------------------------------------
+
+- <b>Master of Data Science</b>
+<!-- - <i class="fas fa-graduation-cap"></i> University of Technology -->
+<!-- - <i class="far fa-calendar-alt"></i> 2017 - 2021 -->
+<!-- - <i class="fas fa-poll"></i> GPA  -->
+- University of Technology
+- 2017 - 2021
+- GPA 6.92
+- <i class="fab fa-r-project"></i> [Innovation Lab - NSW Property](https://rohandaniscox.github.io/ilab_2019/index.html)
+<br><br>
+- <b>Bachelor of Finance</b>
+<!-- - <i class="fas fa-graduation-cap"></i> Australian National University -->
+<!-- - <i class="far fa-calendar-alt"></i> 2007 - 2011 -->
+<!-- - <i class="fas fa-poll"></i> GPA 5.54 -->
+- Australian National University
+- 2007 - 2011
+- GPA 5.54
+
+
 Programming {#programming}
 ------------------------------------
 
@@ -35,28 +56,31 @@ Tooling {#presentation}
 - Tidyverse <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> </span>
 - Shiny <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> </span>
 - Git <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> </span>
-- Spark <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- HDFS <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- Apache Spark <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
 - Tableau <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="fas fa-adjust"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
+- H2O AI <span style="float:right;"> <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> <i class="far fa-circle"></i> </span>
 
-References {#references}
-------------------------------------
+<!-- References {#references} -->
+<!-- ------------------------------------ -->
 
-- <b>Nathan Huang </b> 
-- CBA - Senior Manager (On Leave)
-- Augment - Co-founder
-- <i class="fa fa-envelope"></i> nathan@augment-partners.com
-- <i class="fa fa-phone"></i> 0433 564 885
+<!-- - <b>Nathan Huang </b>  -->
+<!-- - CBA - Senior Manager (On Leave) -->
+<!-- - Augment - Co-founder -->
+<!-- - <i class="fa fa-envelope"></i> nathan@augment-partners.com -->
+<!-- - <i class="fa fa-phone"></i> 0433 564 885 -->
 
-Second Reference {#secondref}
-------------------------------------
-- <b>Paul Wainwright </b>
-- Mable Technologies
-- Head of Analytics
-- <i class="fa fa-envelope"></i> paul.wainwright@mable.com.au
-- <i class="fa fa-phone"></i> 0413 042 352
+<!-- Second Reference {#secondref} -->
+<!-- ------------------------------------ -->
+<!-- - <b>Paul Wainwright </b> -->
+<!-- - Mable Technologies -->
+<!-- - Head of Analytics -->
+<!-- - <i class="fa fa-envelope"></i> paul.wainwright@mable.com.au -->
+<!-- - <i class="fa fa-phone"></i> 0413 042 352 -->
 
 Disclaimer
 ------------------------------------
+References available on request
 
 Made using [pagedown](https://github.com/rstudio/pagedown) 
 
@@ -70,7 +94,7 @@ Main
 Rohan Danis-Cox {#title}
 ------------------------------------
 
-Data scientist with passion for problem solving with data science and analytics. I believe strongly in leveraging analytics to drive a deep domain knowledge, ensuring data science is targeted, feasible and value driven. My professional and academic background covers financial services, property and consumer protection. I am keen to gain exposure in health care, energy and regional planning.
+Data scientist with passion for problem solving using data science and analytics. I believe strongly in leveraging analytics to drive a deep domain knowledge, ensuring data science is targeted, feasible and value driven. My professional and academic background covers financial services, property and consumer protection. I am keen to gain exposure in health care, energy and regional planning.
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -83,10 +107,11 @@ Sydney, NSW
 
 Present - Feb 2021
 
-- Mining and simulating internal processes to identify improvement opportunities  
-- Forecasting chargeback representments volumes and predicting impact on team
-- Leading team of associate data scientists to uncover complaint / rework themes
-- Coaching and mentoring associate data scientists to drive continual development
+- Responsible for leading and delivering data science opportunities for Technology's operations functions
+- Reducing $250k - $1mil project cost exposure by mining and simulating internal processes to identify process breakdowns and improvement opportunities
+- Reducing $1-5mil p.a. write-off exposure by forecasting chargeback representments and predicting impact to payment processing teams
+- Reducing $250k - $1mil project cost exposure by leading team of 2 associate data scientists to uncover themes in complaints & reworked home loan processing
+- Coaching and mentoring 3 associate data scientists by directing their project delivery and working with them to plan and accomplish their development goals
 
 ### Associate Data Scientist
 
@@ -96,10 +121,11 @@ Sydney, NSW
 
 Feb 2021 - Feb 2020
 
-- Predicted operational risk program extensions using gradient boosting model
-- Identified data breaches using natural language processing and deep learning
-- Presented risk reporting metrics via comprehensive RShiny dashboard
-- Provided rapid ad-hoc analytics through bespoke Rmarkdown presentations
+- Responsible for delivering analytics and data science opportunities for Enterprise Service's (Technology) line 1 risk function
+- Reduced risk of significant Privacy Act penalties and manual effort by 40% by identifying 2 missed data breaches each day using NLP and deep learning
+- 40x reduction in manual effort by building and maintaining a comprehensive RShiny dashboard for operational risk relied on by over 100 CBA risk managers and executives
+- Reduced risk of operational risk initiatives failing to be completed on time by 7% by accurately predicting which initiatives were most likely to miss deadlines
+- Improved insight and agility by rapidly building bespoke Rmarkdown presentations for ad-hoc / semi-regular analytics
 
 ### Analyst / Senior Analyst
 
@@ -109,9 +135,10 @@ Sydney, NSW
 
 Jan 2020 - Nov 2016
 
-- Designed and implemented Learning Needs Analysis application
-- Designed and implemented Interactive General Advice application
-- Seconded to Monitoring and Supervision responding to ASIC Report 515
+- Designed and implemented Learning Needs Analysis application to manage training framework required under ASIC enforceable undertakings
+- Designed and implemented interactive General Advice application to guide phone and quality assurance staff through best practice to ensure quality and consistency
+- Enhanced audit regime for Quality Assurance through Monitoring and Supervision key working group responding to ASIC Report 515
+- MLC Wealth - Direct Advice Employee of the Year 2018
 
 ### Financial Planning
 
@@ -125,28 +152,13 @@ Nov 2016 - Apr 2012
 - Financial Adviser - Dixon Advisory (Jun 2014 - Jul 2015)
 - Paraplanner - Dixon Advisory (Apr 2012 - Jun 2014)
 
+<!-- Achievements {data-icon=trophy} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-Education {data-icon=graduation-cap}
-------------------------------------
+<!-- ### Commonwealth Bank of Australia -->
+<!-- - Placeholder -->
 
-### Master of Data Science and Innovation
+<!-- location - placeholder -->
 
-University of Technology
-
-Sydney, NSW
-
-2021 - 2017
-
-- [Innovation Lab analysing NSW property market](https://rohandaniscox.github.io/ilab_2019/index.html)
-- Innovation Lab forecasting donor revenue with Cancer Council
-- GPA 6.92
-
-### Bachelor of Finance
-
-Australian National University
-
-Canberra, ACT
-
-2011 - 2007
-
-- GPA 5.54
+<!-- ### National Australia Bank -->
+<!-- - Placeholder -->
